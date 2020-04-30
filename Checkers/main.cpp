@@ -1,9 +1,6 @@
-
-#include "GameDisplay.h"
+// source.cpp
 
 int main()
 {
-	GameDisplay* checkers = new GameDisplay();
-	delete checkers;
 	return 0;
 }
